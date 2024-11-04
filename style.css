@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flexbox;
+}
+.navbar ul{
+    display: flex;
+}
+.LOGO img{
+    width: 80px;
+}
+.container{
+    display: flex;
+}
+.header1{
+    display: inline-block;
+}
+.raw{
+    margin: 100px 100px 0px 14px;
+
+}
+.procesed{
+    display: flex;
+}
+.card-link{
+    text-decoration: none;
+    border: 2px solid rgb(2, 109, 109);
+    border-radius: 7px;
+    padding: 5px 6px 5px 6px;
+    background-color: rgb(2, 109, 109);
+    color: white;
+}
+.card-link:hover{
+    text-decoration: none;
+    border: 2px solid rgb(1, 66, 66);
+    border-radius: 7px;
+    padding: 5px 6px 5px 6px;
+    background-color: rgb(1, 66, 66);
+    color: white;
+    transition: .5s;
+}
+.PROCESED{
+    margin-top: 100px;
+    margin-left: 54px;
+    margin-right: 155px;
+}
